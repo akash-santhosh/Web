@@ -1,1 +1,1 @@
-Host Static Webpages with HTM,CSS,JS and simple files
+Host Static Webpages with HTML,CSS,JS and simple files on Arduino
